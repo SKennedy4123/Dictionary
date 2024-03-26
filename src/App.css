@@ -1,9 +1,7 @@
-.App {
-  text-align: center;
-}
 
 .App-header {
   margin: 20px 0;
+  text-align: center;
 }
 
 .App-logo {
@@ -15,4 +13,9 @@
 .App-footer {
   margin: 20px 0;
   font-size: small;
+  text-align: center;
+}
+
+.container {
+margin: 0 40px;
 }
