@@ -4,4 +4,38 @@ text-align: left;
 
 form {
     text-align: center;
+    padding: 20px 0;
+}
+
+.Dictionary input {
+    width: 60%;
+    padding: 8px;
+    border-color: #546B88;
+    border-radius: 10px;
+    font-size: large;
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.15);
+}
+
+.Dictionary button {
+    padding: 8px;
+    margin: 0 4px;
+    border-color: #546B88;
+    border-radius: 10px;
+    font-size: large;
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.15);
+}
+
+.Dictionary section {
+    border-radius: 10px;
+    background-color: #dce2f87c;
+    padding: 1px 15px 5px 15px;
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.15);
+}
+
+.Dictionary .hint {
+    font-size: small;
+    color: gray;
+    text-align: center;
 }
