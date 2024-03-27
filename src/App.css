@@ -10,9 +10,10 @@
 }
 
 .App-footer {
-  margin: 20px 0;
+  margin: 40px 0 20px 0;
   font-size: small;
   text-align: center;
+  line-height: 2;
 }
 
 .container {
